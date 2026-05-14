@@ -1,6 +1,6 @@
 # CareerAI: Multi-Agent Career Orchestrator
 
-CareerAI is a sophisticated job-search automation platform that utilizes a **Sequential Chain Workflow** to bridge the gap between job discovery and application. By leveraging specialized AI agents, the system scouts the live job market and generates hyper-tailored, high-conversion cover letters based on a candidate's specific experience.
+CareerAI is a sophisticated job-search automation platform that utilizes a **Sequential Chain Workflow** to bridge the gap between job discovery and application. By leveraging specialized AI agents, the system scouts the live job market and generates hyper-tailored, high-conversion cover letters based on a candidate's specific experience. (WORK IS STILL BEING DONE, DON'T EXPECT THE APPLICATION TO WORK FULLY)
 
 ## 🚀 Core Features
 
